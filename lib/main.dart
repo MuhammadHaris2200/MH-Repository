@@ -27,7 +27,7 @@ class homePage extends StatelessWidget {
         child: Container(
           width: 200,
           height: 200,
-          color: Colors.black,
+          color: Colors.blue,
         ),
       ),
     );
